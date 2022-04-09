@@ -1,0 +1,35 @@
+# KEY VALUE PAIR
+
+"apple" : "I am a red fruit"
+1 : "At the top"
+
+---
+
+# LIST
+
+ - Apple
+ - Mango
+ - Papaya
+ - Grapes
+ - Mulberry
+
+---
+
+# BLOCKS
+
+cities:
+ - New Delhi
+ - Mumbai
+ - Pune
+
+---
+
+# FLOW CODE
+
+cities: [New Delhi, Mumbai]
+
+---
+
+{mango: "yellow fruit", age: 56}
+
+...

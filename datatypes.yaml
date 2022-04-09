@@ -1,10 +1,10 @@
 # String variables
-myself: Kunal Kushwaha
+myself: Karandeep Singh
 fruit: "apple"
 job: 'swe'
 
 bio: | 
- hey my name is kunal kushwaha.
+ hey my name is Karan.
  i am a very nice dude.
 
 # write a single line in multiple lines
